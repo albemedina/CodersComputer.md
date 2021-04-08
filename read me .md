@@ -17,5 +17,5 @@ Brackets is a free text editor that’s available for download for Windows compu
 Sublime Text 3 is a premium software that can be purchased in full for $70. Otherwise you’ll use the free version. Sublime Text enjoys a history of being fast and responsive while being extensible as well. There’s no doubt that Sublime Text will tick the check boxes of what to look for in a text editor. It has syntax highlighting, it has code completion, it has themes and extensions. And will definitely get the .job done no matter how advanced you get with your coding.
 
 Does this make you wanna build websites?
-![image](https://user-images.githubusercontent.com/81835732/113960123-d2c83b80-97d8-11eb-93eb-bd3769de6365.png)
+![image](https://user-images.githubusercontent.com/81835732/113960123-d2c83b80-97d8-11eb-93eb-bd3769de6365.png) 
 
